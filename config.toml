@@ -1,0 +1,4 @@
+baseURL = "https://kobacho.github.io/"
+languageCode = "ja"
+title = "My New Hugo Site"
+theme = "hugo-blog-jeffprod"
