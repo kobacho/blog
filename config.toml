@@ -1,4 +1,4 @@
-baseURL = "https://kobacho.github.io/"
+baseURL = "https://kobacho.github.io/blog"
 languageCode = "ja"
 title = "My New Hugo Site"
 theme = "hugo-blog-jeffprod"
